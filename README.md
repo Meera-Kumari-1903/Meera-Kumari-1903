@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meera Kumari</h1>
-<h3 align="center">🚀 MCA Student | Data Science Enthusiast | Full Stack Developer | AI & ML Learner</h3>
+<h3 align="center">📊 Data Enthusiast | 🔍 Aspiring Data Analyst | 🚀 Turning Data into Insights| AI and ML Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Full+Stack+Developer;AI+%26+Machine+Learning+Learner;Open+Source+Contributor" />
