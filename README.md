@@ -3,7 +3,9 @@
 <h3 align="center">📊 Passionate About Data | 💡 Driven by Insights | 🌏 From India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Data+Science+Enthusiast;Turning+Data+into+Insights;Always+Learning+Something+New" />
+ <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VwZGh5NjQ0M3B5cnRjMHh6cGF4N2ZtbmQ4YW56M3F2a2NhNm16YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="400">
+</p>
 </p>
 
 <p align="center">
