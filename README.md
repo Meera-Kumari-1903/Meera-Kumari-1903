@@ -3,7 +3,7 @@
 <h3 align="center">📊 Passionate About Data | 💡 Driven by Insights | 🌏 From India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Data+Science+Enthusiast;Turning+Data+into+Insights;Always+Learning+and+Growing" />
+  <img src=https://chatgpt.com/backend-api/estuary/content?id=file_00000000eb3071fb9d30b814922a4d4e&ts=495587&p=fs&cid=1&sig=09d363b69a2e3d17d8c4f46475ba89f1072ea2be62e938f2006ce16248b9d83a&v=0
 </p>
 
 <p align="center">
