@@ -4,7 +4,9 @@
 
 <p align="center">
  <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VwZGh5NjQ0M3B5cnRjMHh6cGF4N2ZtbmQ4YW56M3F2a2NhNm16YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="400">
+  <img <p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500"/>
+</p>
 </p>
 </p>
 
